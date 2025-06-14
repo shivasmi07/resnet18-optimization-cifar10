@@ -74,6 +74,7 @@ This project addresses these challenges by optimizing the final layer of **ResNe
 │ └── Graph.ipynb # Visual analysis: accuracy/loss plots
 
 ├── README.md # Project overview and details
+
 └── requirements.txt # Dependencies and libraries
 
 
