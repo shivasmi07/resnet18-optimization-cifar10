@@ -62,26 +62,13 @@ This project addresses these challenges by optimizing the final layer of **ResNe
 ## Repository Structure
 
 ├── notebooks/
-
-│ ├── ResNet18_GradientDescent.ipynb # GD training on ResNet-18
-
-│ └── Bi-objective_optimisation.ipynb # NSGA-II training script
-
-│
-├── models/
-
-│ ├── ResNet18_15epochsGradDescent_params.pkl # GD trained model
-
-│ └── ResNet18_BiObj.pkl # Bi-objective model
-
-│
-├── results/
-
-│ └── loss_plot.png # Loss vs. generation graph
-
+│ ├── GradientDescent.ipynb # Training ResNet-18 with Gradient Descent
+│ ├── PSO.ipynb # Optimization using Particle Swarm Optimization
+│ ├── CMA_ES.ipynb # CMA-ES-based final layer optimization
+│ ├── BiObj.ipynb # Multi-objective optimization using NSGA-II
+│ └── Graph.ipynb # Visual analysis: accuracy/loss plots
 │
 ├── README.md # Project overview and details
-
 └── requirements.txt # Dependencies and libraries
 
 
