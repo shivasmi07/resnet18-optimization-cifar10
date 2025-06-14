@@ -62,16 +62,33 @@ This project addresses these challenges by optimizing the final layer of **ResNe
 ## Repository Structure
 
 ├── notebooks/
+
 │ ├── ResNet18_GradientDescent.ipynb # GD training on ResNet-18
+
 │ └── Bi-objective_optimisation.ipynb # NSGA-II training script
+
 │
 ├── models/
+
 │ ├── ResNet18_15epochsGradDescent_params.pkl # GD trained model
+
 │ └── ResNet18_BiObj.pkl # Bi-objective model
+
 │
 ├── results/
+
 │ └── loss_plot.png # Loss vs. generation graph
+
 │
 ├── README.md # Project overview and details
+
 └── requirements.txt # Dependencies and libraries
+
+
+## Author
+Shivasmi Sharma
+Bioinformatics Analyst | MSc Data Science
+📧 Email: shivasmisharma646@gmail.com
+🔗 LinkedIn: linkedin.com/in/shivasmi-sharma
+🐙 GitHub: github.com/shivasmi07
 
