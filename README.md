@@ -86,9 +86,9 @@ This project addresses these challenges by optimizing the final layer of **ResNe
 
 
 ## Author
-Shivasmi Sharma
-Bioinformatics Analyst | MSc Data Science
-📧 Email: shivasmisharma646@gmail.com
-🔗 LinkedIn: linkedin.com/in/shivasmi-sharma
-🐙 GitHub: github.com/shivasmi07
+**Shivasmi Sharma**  
+Bioinformatics Analyst | MSc Data Science  
+📧 Email: [shivasmisharma646@gmail.com](mailto:shivasmisharma646@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/shivasmi-sharma](https://www.linkedin.com/in/shivasmi-sharma)  
+🐙 GitHub: [github.com/shivasmi07](https://github.com/shivasmi07)
 
